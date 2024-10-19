@@ -13,7 +13,9 @@ Proyek ini bertujuan untuk membuat platform e-commerce yang dirancang khusus unt
 
 **Technologies Used**
 Programming Language: PHP,JavaScript
+
 Framework: Laravel & Vue.js
+
 Database: SQL & ElasticSearch
 
 
