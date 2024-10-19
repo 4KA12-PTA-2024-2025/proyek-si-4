@@ -1,6 +1,7 @@
 WEBSITE MULTI VENDOR E-COMMERCE AL FATTA
 
 TEAM 4 
+
 Yusi Nabilla - Project Manager  
 Marseli Wulandari - System Analyst  
 M.Thariq Asyam - UI/UX Designer  
