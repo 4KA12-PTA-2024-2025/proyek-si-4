@@ -1,3 +1,5 @@
+Link vidio Presentasi Milestone & Project Charter : https://drive.google.com/drive/folders/1jyXd_dRzcfquoC3pPqnL294BvoS1-pc9?usp=drive_link
+
 WEBSITE MULTI VENDOR E-COMMERCE AL FATTA
 
 TEAM 4 
