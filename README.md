@@ -1,5 +1,4 @@
 Link vidio Presentasi Milestone & Project Charter : https://drive.google.com/drive/folders/1jyXd_dRzcfquoC3pPqnL294BvoS1-pc9?usp=drive_link
-Link Vidio Presentasi BPMN : https://drive.google.com/drive/folders/1UGXNVfpfO4v9Qez35ojwxFX08TtCVHoS?usp=drive_link
 
 
 WEBSITE MULTI VENDOR E-COMMERCE AL FATTA
