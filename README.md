@@ -19,7 +19,7 @@ Programming Language: PHP,JavaScript
 
 Framework: Laravel & Vue.js
 
-Database: SQL & ElasticSearch
+Database: SQL & Redis
 
 Link Ganchart : https://docs.google.com/spreadsheets/d/1L4Fh4V2dtmI4oQAluOJrl771UTsj4p-H5_M4f2re_z4/edit?usp=sharing
 
