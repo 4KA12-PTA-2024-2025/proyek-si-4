@@ -25,4 +25,4 @@ Link Ganchart : https://docs.google.com/spreadsheets/d/1L4Fh4V2dtmI4oQAluOJrl771
 
 **Link Website**
 Frontend: https://ecommerce.bayatmultijaya-shop.com
-Backend: http://backend.al-fatta.me
+Backend: https://backend.al-fatta.me
